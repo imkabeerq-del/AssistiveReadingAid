@@ -1,0 +1,338 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+html,
+body,
+.stApp {
+    background-color: #070B14 !important;
+    background-image:
+        radial-gradient(circle at 14% 6%, rgba(99, 102, 241, 0.16), transparent 44%),
+        radial-gradient(circle at 88% 10%, rgba(34, 211, 238, 0.12), transparent 40%) !important;
+    color: #F8FAFC !important;
+    font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    font-size: 17px !important;
+    line-height: 1.65 !important;
+}
+
+/* Hide default Streamlit header, toolbar, decoration, and footer */
+[data-testid="stHeader"],
+[data-testid="stToolbar"],
+[data-testid="stDecoration"],
+[data-testid="stStatusWidget"],
+#MainMenu,
+.navbar:empty {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: 0 !important;
+    background: transparent !important;
+}
+
+.block-container {
+    padding-top: 1.6rem !important;
+    padding-bottom: 3.5rem !important;
+    max-width: 1220px !important;
+}
+
+/* Clear, Readable Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #F8FAFC !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.02em !important;
+    line-height: 1.25 !important;
+}
+
+h1 {
+    font-size: 2.35rem !important;
+    margin-bottom: 0.35rem !important;
+}
+
+h2 {
+    font-size: 1.7rem !important;
+    margin-bottom: 0.45rem !important;
+}
+
+h3 {
+    font-size: 1.32rem !important;
+    margin-bottom: 0.35rem !important;
+}
+
+h4 {
+    font-size: 1.15rem !important;
+    margin-bottom: 0.35rem !important;
+}
+
+p,
+li {
+    font-size: 1.02rem !important;
+    line-height: 1.7 !important;
+    color: #E2E8F0;
+}
+
+[data-testid="stCaptionContainer"] p {
+    color: #94A3B8 !important;
+    font-size: 0.98rem !important;
+    line-height: 1.6 !important;
+}
+
+/* Top Navigation Bar */
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 14px;
+    background: linear-gradient(180deg, rgba(16, 24, 42, 0.96), rgba(10, 15, 29, 0.99));
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: 16px;
+    padding: 16px 24px;
+    margin-bottom: 14px;
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.48);
+}
+
+.nav-brand {
+    font-size: 1.22rem;
+    font-weight: 800;
+    color: #F8FAFC;
+    letter-spacing: -0.015em;
+    display: inline-flex;
+    align-items: center;
+    gap: 11px;
+}
+
+.nav-brand::before {
+    content: "";
+    width: 11px;
+    height: 11px;
+    border-radius: 999px;
+    background: linear-gradient(135deg, #6366F1, #22D3EE);
+    box-shadow: 0 0 14px rgba(34, 211, 238, 0.8);
+}
+
+.nav-user {
+    font-size: 0.95rem;
+    color: #CBD5E1;
+    font-weight: 500;
+    background: rgba(15, 23, 42, 0.92);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    padding: 7px 15px;
+    border-radius: 999px;
+}
+
+.nav-user span {
+    color: #22D3EE;
+    font-weight: 700;
+}
+
+/* Auth Header Card */
+.auth-hero {
+    text-align: center;
+    max-width: 520px;
+    margin: 16px auto 20px auto;
+    padding: 26px 28px;
+    background: linear-gradient(160deg, rgba(17, 26, 48, 0.96), rgba(9, 14, 27, 0.99));
+    border: 1px solid rgba(99, 102, 241, 0.34);
+    border-radius: 18px;
+    box-shadow: 0 18px 42px rgba(0, 0, 0, 0.52);
+}
+
+.auth-hero h2 {
+    margin: 0 0 6px 0 !important;
+    font-size: 1.75rem !important;
+}
+
+.auth-hero p {
+    margin: 0;
+    color: #94A3B8;
+    font-size: 1.02rem !important;
+}
+
+/* Unified Surface Cards */
+.custom-card,
+.tip-card,
+.profile-card,
+.awareness-card,
+.login-card,
+.reading-surface {
+    background: linear-gradient(165deg, rgba(16, 24, 42, 0.94), rgba(10, 15, 29, 0.98)) !important;
+    border: 1px solid rgba(148, 163, 184, 0.18) !important;
+    border-radius: 16px !important;
+    padding: 24px 26px !important;
+    margin-bottom: 18px !important;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.42) !important;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease !important;
+}
+
+.custom-card:hover,
+.tip-card:hover,
+.profile-card:hover,
+.awareness-card:hover {
+    border-color: rgba(34, 211, 238, 0.45) !important;
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.52) !important;
+    transform: translateY(-2px);
+}
+
+.tip-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 195px;
+    padding: 24px !important;
+}
+
+/* Metric Tiles */
+[data-testid="stMetric"] {
+    background: linear-gradient(165deg, rgba(16, 24, 42, 0.95), rgba(10, 15, 29, 0.98)) !important;
+    border: 1px solid rgba(148, 163, 184, 0.18) !important;
+    border-top: 3px solid #6366F1 !important;
+    border-radius: 16px !important;
+    padding: 18px 20px !important;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.36) !important;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #94A3B8 !important;
+    font-size: 0.84rem !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.06em !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: #F8FAFC !important;
+    font-weight: 800 !important;
+    font-size: 1.9rem !important;
+}
+
+/* Form Labels, Inputs, Selects & Text Areas */
+label,
+.stTextInput label,
+.stTextArea label,
+.stSelectbox label,
+.stSlider label,
+.stSelectSlider label {
+    font-size: 0.98rem !important;
+    font-weight: 600 !important;
+    color: #E2E8F0 !important;
+}
+
+.stTextInput input,
+.stTextArea textarea,
+.stNumberInput input,
+.stSelectbox div[data-baseweb="select"] > div {
+    background-color: #090E1B !important;
+    color: #F8FAFC !important;
+    border: 1.5px solid #283548 !important;
+    border-radius: 12px !important;
+    font-size: 1rem !important;
+    min-height: 44px !important;
+}
+
+.stTextArea textarea {
+    line-height: 1.7 !important;
+    padding: 14px 16px !important;
+}
+
+.stTextInput input:focus,
+.stTextArea textarea:focus {
+    border-color: #22D3EE !important;
+    box-shadow: 0 0 0 3px rgba(34, 211, 238, 0.22) !important;
+}
+
+/* High-Contrast Checkbox Pill */
+[data-testid="stCheckbox"] {
+    background-color: #F8FAFC !important;
+    color: #0F172A !important;
+    border-radius: 11px !important;
+    padding: 8px 15px !important;
+    margin-top: 6px !important;
+    margin-bottom: 12px !important;
+    display: inline-flex !important;
+    border: 1px solid rgba(15, 23, 42, 0.15) !important;
+}
+
+[data-testid="stCheckbox"] label,
+[data-testid="stCheckbox"] label p,
+[data-testid="stCheckbox"] span {
+    color: #0F172A !important;
+    font-weight: 700 !important;
+    font-size: 0.94rem !important;
+}
+
+/* Prominent, Tactile Buttons */
+.stButton button {
+    border-radius: 12px !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    min-height: 46px !important;
+    padding: 11px 20px !important;
+    letter-spacing: -0.01em !important;
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease, border-color 0.18s ease !important;
+}
+
+.stButton button:hover {
+    transform: translateY(-2px) !important;
+}
+
+.stButton button:active {
+    transform: translateY(0) !important;
+}
+
+.stButton button[kind="primary"] {
+    background: linear-gradient(135deg, #6366F1 0%, #06B6D4 100%) !important;
+    color: #FFFFFF !important;
+    border: 1px solid rgba(255, 255, 255, 0.16) !important;
+    box-shadow: 0 8px 24px rgba(79, 70, 229, 0.42) !important;
+}
+
+.stButton button[kind="primary"]:hover {
+    box-shadow: 0 12px 28px rgba(34, 211, 238, 0.35) !important;
+}
+
+.stButton button[kind="secondary"] {
+    background-color: #152036 !important;
+    color: #F1F5F9 !important;
+    border: 1.5px solid #2B3B55 !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+}
+
+.stButton button[kind="secondary"]:hover {
+    background-color: #1E2D4A !important;
+    border-color: #22D3EE !important;
+    color: #FFFFFF !important;
+}
+
+/* Progress & Expanders */
+.stProgress > div > div > div {
+    background: linear-gradient(90deg, #6366F1 0%, #22D3EE 100%) !important;
+    border-radius: 999px !important;
+    height: 12px !important;
+}
+
+[data-testid="stExpander"] {
+    background: rgba(15, 23, 42, 0.85) !important;
+    border: 1px solid rgba(148, 163, 184, 0.18) !important;
+    border-radius: 14px !important;
+}
+
+[data-testid="stExpander"] summary {
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    padding: 12px 16px !important;
+}
+
+hr {
+    border-color: rgba(148, 163, 184, 0.16) !important;
+    margin: 26px 0 !important;
+}
+
+footer {
+    display: none !important;
+}

@@ -1,0 +1,2135 @@
+2026-10-25 01:19:55,384 | INFO | Database initialized successfully.
+2026-10-25 01:19:55,599 | INFO | CSS loaded successfully.
+2026-10-25 01:20:01,295 | INFO | Database initialized successfully.
+2026-10-25 01:20:01,296 | INFO | CSS loaded successfully.
+2026-10-25 01:20:12,144 | INFO | Database initialized successfully.
+2026-10-25 01:20:12,146 | INFO | CSS loaded successfully.
+2026-10-25 01:20:17,089 | INFO | Database initialized successfully.
+2026-10-25 01:20:17,091 | INFO | CSS loaded successfully.
+2026-10-25 01:20:17,137 | INFO | Database initialized successfully.
+2026-10-25 01:20:17,138 | INFO | CSS loaded successfully.
+2026-10-25 01:20:25,049 | INFO | Loaded page: 1_Dashboard.py
+2026-10-25 01:20:43,668 | INFO | Database initialized successfully.
+2026-10-25 01:20:43,676 | INFO | CSS loaded successfully.
+2026-10-25 01:20:43,760 | INFO | Database initialized successfully.
+2026-10-25 01:20:43,761 | INFO | CSS loaded successfully.
+2026-10-25 01:20:43,874 | INFO | Loaded page: 1_Dashboard.py
+2026-10-25 01:20:49,663 | INFO | Database initialized successfully.
+2026-10-25 01:20:49,665 | INFO | CSS loaded successfully.
+2026-10-25 01:20:49,732 | INFO | Database initialized successfully.
+2026-10-25 01:20:49,733 | INFO | CSS loaded successfully.
+2026-10-25 01:20:49,934 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:01,975 | INFO | Database initialized successfully.
+2026-10-25 01:21:01,976 | INFO | CSS loaded successfully.
+2026-10-25 01:21:01,986 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:02,065 | INFO | Database initialized successfully.
+2026-10-25 01:21:02,066 | INFO | CSS loaded successfully.
+2026-10-25 01:21:02,078 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:02,241 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-10-25 01:21:02,241 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-10-25 01:21:10,470 | INFO | Database initialized successfully.
+2026-10-25 01:21:10,472 | INFO | CSS loaded successfully.
+2026-10-25 01:21:10,478 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:12,584 | INFO | Database initialized successfully.
+2026-10-25 01:21:12,585 | INFO | CSS loaded successfully.
+2026-10-25 01:21:13,783 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:22,871 | INFO | Database initialized successfully.
+2026-10-25 01:21:22,872 | INFO | CSS loaded successfully.
+2026-10-25 01:21:22,879 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:24,162 | INFO | Database initialized successfully.
+2026-10-25 01:21:24,163 | INFO | CSS loaded successfully.
+2026-10-25 01:21:24,980 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:36,182 | INFO | Database initialized successfully.
+2026-10-25 01:21:36,183 | INFO | CSS loaded successfully.
+2026-10-25 01:21:36,190 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:38,378 | INFO | Database initialized successfully.
+2026-10-25 01:21:38,379 | INFO | CSS loaded successfully.
+2026-10-25 01:21:39,157 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:55,476 | INFO | Database initialized successfully.
+2026-10-25 01:21:55,477 | INFO | CSS loaded successfully.
+2026-10-25 01:21:55,484 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:21:58,558 | INFO | Database initialized successfully.
+2026-10-25 01:21:58,560 | INFO | CSS loaded successfully.
+2026-10-25 01:21:59,853 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:22:21,734 | INFO | Database initialized successfully.
+2026-10-25 01:22:21,735 | INFO | CSS loaded successfully.
+2026-10-25 01:22:21,745 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:22:24,408 | INFO | Database initialized successfully.
+2026-10-25 01:22:24,409 | INFO | CSS loaded successfully.
+2026-10-25 01:22:25,272 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:22:45,000 | INFO | Database initialized successfully.
+2026-10-25 01:22:45,001 | INFO | CSS loaded successfully.
+2026-10-25 01:22:45,014 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:22:47,196 | INFO | Database initialized successfully.
+2026-10-25 01:22:47,197 | INFO | CSS loaded successfully.
+2026-10-25 01:22:47,213 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:22:57,344 | INFO | Database initialized successfully.
+2026-10-25 01:22:57,346 | INFO | CSS loaded successfully.
+2026-10-25 01:22:57,364 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:10,425 | INFO | Database initialized successfully.
+2026-10-25 01:23:10,427 | INFO | CSS loaded successfully.
+2026-10-25 01:23:10,442 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:12,550 | INFO | Database initialized successfully.
+2026-10-25 01:23:12,551 | INFO | CSS loaded successfully.
+2026-10-25 01:23:12,567 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:20,394 | INFO | Database initialized successfully.
+2026-10-25 01:23:20,396 | INFO | CSS loaded successfully.
+2026-10-25 01:23:20,412 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:21,157 | INFO | Database initialized successfully.
+2026-10-25 01:23:21,158 | INFO | CSS loaded successfully.
+2026-10-25 01:23:21,168 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:21,404 | INFO | Database initialized successfully.
+2026-10-25 01:23:21,405 | INFO | CSS loaded successfully.
+2026-10-25 01:23:21,414 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:21,639 | INFO | Database initialized successfully.
+2026-10-25 01:23:21,641 | INFO | CSS loaded successfully.
+2026-10-25 01:23:21,648 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:21,849 | INFO | Database initialized successfully.
+2026-10-25 01:23:21,850 | INFO | CSS loaded successfully.
+2026-10-25 01:23:21,857 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:22,044 | INFO | Database initialized successfully.
+2026-10-25 01:23:22,045 | INFO | CSS loaded successfully.
+2026-10-25 01:23:22,053 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:22,241 | INFO | Database initialized successfully.
+2026-10-25 01:23:22,242 | INFO | CSS loaded successfully.
+2026-10-25 01:23:22,250 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:22,441 | INFO | Database initialized successfully.
+2026-10-25 01:23:22,442 | INFO | CSS loaded successfully.
+2026-10-25 01:23:22,450 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:22,644 | INFO | Database initialized successfully.
+2026-10-25 01:23:22,645 | INFO | CSS loaded successfully.
+2026-10-25 01:23:22,652 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:48,170 | INFO | Database initialized successfully.
+2026-10-25 01:23:48,171 | INFO | CSS loaded successfully.
+2026-10-25 01:23:48,178 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:23:53,096 | INFO | Database initialized successfully.
+2026-10-25 01:23:53,098 | INFO | CSS loaded successfully.
+2026-10-25 01:23:53,108 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:24:04,459 | INFO | Database initialized successfully.
+2026-10-25 01:24:04,460 | INFO | CSS loaded successfully.
+2026-10-25 01:24:04,511 | INFO | Database initialized successfully.
+2026-10-25 01:24:04,512 | INFO | CSS loaded successfully.
+2026-10-25 01:24:04,525 | INFO | Loaded page: 3_Awareness.py
+2026-10-25 01:24:13,178 | INFO | Database initialized successfully.
+2026-10-25 01:24:13,179 | INFO | CSS loaded successfully.
+2026-10-25 01:24:13,230 | INFO | Database initialized successfully.
+2026-10-25 01:24:13,231 | INFO | CSS loaded successfully.
+2026-10-25 01:24:13,245 | INFO | Loaded page: 4_Tips.py
+2026-10-25 01:24:31,599 | INFO | Database initialized successfully.
+2026-10-25 01:24:31,602 | INFO | CSS loaded successfully.
+2026-10-25 01:24:31,710 | INFO | Database initialized successfully.
+2026-10-25 01:24:31,712 | INFO | CSS loaded successfully.
+2026-10-25 01:24:31,760 | INFO | Loaded page: 5_Profile.py
+2026-10-25 01:25:01,243 | INFO | Database initialized successfully.
+2026-10-25 01:25:01,245 | INFO | CSS loaded successfully.
+2026-10-25 01:25:01,260 | INFO | Loaded page: 5_Profile.py
+2026-10-25 01:25:10,399 | INFO | Database initialized successfully.
+2026-10-25 01:25:10,402 | INFO | CSS loaded successfully.
+2026-10-25 01:25:10,496 | INFO | Database initialized successfully.
+2026-10-25 01:25:10,497 | INFO | CSS loaded successfully.
+2026-10-25 01:25:10,499 | INFO | User logged out successfully.
+2026-10-25 01:25:10,563 | INFO | Database initialized successfully.
+2026-10-25 01:25:10,564 | INFO | CSS loaded successfully.
+2026-10-25 01:34:02,279 | INFO | Database initialized successfully.
+2026-10-25 01:34:02,729 | INFO | CSS loaded successfully.
+2026-10-25 01:34:06,641 | INFO | Database initialized successfully.
+2026-10-25 01:34:06,642 | INFO | CSS loaded successfully.
+2026-10-25 01:34:38,861 | INFO | Database initialized successfully.
+2026-10-25 01:34:38,979 | INFO | CSS loaded successfully.
+2026-10-25 01:34:43,402 | INFO | Database initialized successfully.
+2026-10-25 01:34:43,405 | INFO | CSS loaded successfully.
+2026-10-25 01:34:49,475 | INFO | Database initialized successfully.
+2026-10-25 01:34:49,477 | INFO | CSS loaded successfully.
+2026-10-25 01:34:52,606 | INFO | Database initialized successfully.
+2026-10-25 01:34:52,608 | INFO | CSS loaded successfully.
+2026-10-25 01:34:53,792 | INFO | Database initialized successfully.
+2026-10-25 01:34:53,792 | INFO | CSS loaded successfully.
+2026-10-25 01:34:53,833 | INFO | Database initialized successfully.
+2026-10-25 01:34:53,835 | INFO | CSS loaded successfully.
+2026-10-25 01:34:55,298 | INFO | Loaded page: 1_Dashboard.py
+2026-10-25 01:35:01,778 | INFO | Database initialized successfully.
+2026-10-25 01:35:01,779 | INFO | CSS loaded successfully.
+2026-10-25 01:35:01,848 | INFO | Database initialized successfully.
+2026-10-25 01:35:01,850 | INFO | CSS loaded successfully.
+2026-10-25 01:35:01,953 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:35:04,522 | INFO | Database initialized successfully.
+2026-10-25 01:35:04,525 | INFO | CSS loaded successfully.
+2026-10-25 01:35:04,619 | INFO | Database initialized successfully.
+2026-10-25 01:35:04,621 | INFO | CSS loaded successfully.
+2026-10-25 01:35:04,629 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 01:35:05,453 | INFO | Database initialized successfully.
+2026-10-25 01:35:05,455 | INFO | CSS loaded successfully.
+2026-10-25 01:35:05,539 | INFO | Database initialized successfully.
+2026-10-25 01:35:05,541 | INFO | CSS loaded successfully.
+2026-10-25 01:35:05,551 | INFO | Loaded page: 3_Awareness.py
+2026-10-25 03:59:52,952 | INFO | Database initialized successfully.
+2026-10-25 03:59:52,961 | INFO | CSS loaded successfully.
+2026-10-25 03:59:53,981 | INFO | Database initialized successfully.
+2026-10-25 03:59:53,982 | INFO | CSS loaded successfully.
+2026-10-25 04:00:04,290 | INFO | Database initialized successfully.
+2026-10-25 04:00:04,291 | INFO | CSS loaded successfully.
+2026-10-25 04:00:09,806 | INFO | Database initialized successfully.
+2026-10-25 04:00:09,808 | INFO | CSS loaded successfully.
+2026-10-25 04:00:09,930 | INFO | Database initialized successfully.
+2026-10-25 04:00:09,931 | INFO | CSS loaded successfully.
+2026-10-25 04:00:10,029 | INFO | Database initialized successfully.
+2026-10-25 04:00:10,032 | INFO | CSS loaded successfully.
+2026-10-25 04:00:10,135 | INFO | Loaded page: 1_Dashboard.py
+2026-10-25 04:00:13,417 | INFO | Database initialized successfully.
+2026-10-25 04:00:13,420 | INFO | CSS loaded successfully.
+2026-10-25 04:00:13,511 | INFO | Database initialized successfully.
+2026-10-25 04:00:13,513 | INFO | CSS loaded successfully.
+2026-10-25 04:00:13,609 | INFO | Loaded page: 1_Dashboard.py
+2026-10-25 04:00:15,553 | INFO | Database initialized successfully.
+2026-10-25 04:00:15,555 | INFO | CSS loaded successfully.
+2026-10-25 04:00:15,649 | INFO | Database initialized successfully.
+2026-10-25 04:00:15,651 | INFO | CSS loaded successfully.
+2026-10-25 04:00:15,674 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:00:23,433 | INFO | Database initialized successfully.
+2026-10-25 04:00:23,435 | INFO | CSS loaded successfully.
+2026-10-25 04:00:23,529 | INFO | Database initialized successfully.
+2026-10-25 04:00:23,532 | INFO | CSS loaded successfully.
+2026-10-25 04:00:23,556 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:00:25,465 | INFO | Database initialized successfully.
+2026-10-25 04:00:25,466 | INFO | CSS loaded successfully.
+2026-10-25 04:00:25,568 | INFO | Database initialized successfully.
+2026-10-25 04:00:25,571 | INFO | CSS loaded successfully.
+2026-10-25 04:00:25,584 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:00:28,122 | INFO | Database initialized successfully.
+2026-10-25 04:00:28,123 | INFO | CSS loaded successfully.
+2026-10-25 04:00:28,216 | INFO | Database initialized successfully.
+2026-10-25 04:00:28,218 | INFO | CSS loaded successfully.
+2026-10-25 04:00:28,240 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:00:30,758 | INFO | Database initialized successfully.
+2026-10-25 04:00:30,760 | INFO | CSS loaded successfully.
+2026-10-25 04:00:30,843 | INFO | Database initialized successfully.
+2026-10-25 04:00:30,844 | INFO | CSS loaded successfully.
+2026-10-25 04:00:30,861 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:00:32,316 | INFO | Database initialized successfully.
+2026-10-25 04:00:32,316 | INFO | CSS loaded successfully.
+2026-10-25 04:00:32,408 | INFO | Database initialized successfully.
+2026-10-25 04:00:32,410 | INFO | CSS loaded successfully.
+2026-10-25 04:00:32,430 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:00:36,096 | INFO | Database initialized successfully.
+2026-10-25 04:00:36,097 | INFO | CSS loaded successfully.
+2026-10-25 04:00:36,182 | INFO | Database initialized successfully.
+2026-10-25 04:00:36,184 | INFO | CSS loaded successfully.
+2026-10-25 04:00:36,197 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:00:38,012 | INFO | Database initialized successfully.
+2026-10-25 04:00:38,013 | INFO | CSS loaded successfully.
+2026-10-25 04:00:38,102 | INFO | Database initialized successfully.
+2026-10-25 04:00:38,104 | INFO | CSS loaded successfully.
+2026-10-25 04:00:38,125 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:00:39,520 | INFO | Database initialized successfully.
+2026-10-25 04:00:39,521 | INFO | CSS loaded successfully.
+2026-10-25 04:00:39,611 | INFO | Database initialized successfully.
+2026-10-25 04:00:39,614 | INFO | CSS loaded successfully.
+2026-10-25 04:00:39,641 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:03:14,101 | INFO | Database initialized successfully.
+2026-10-25 04:03:14,275 | INFO | CSS loaded successfully.
+2026-10-25 04:03:27,949 | INFO | Database initialized successfully.
+2026-10-25 04:03:27,950 | INFO | CSS loaded successfully.
+2026-10-25 04:03:38,804 | INFO | Database initialized successfully.
+2026-10-25 04:03:38,807 | INFO | CSS loaded successfully.
+2026-10-25 04:03:38,923 | INFO | Database initialized successfully.
+2026-10-25 04:03:38,926 | INFO | CSS loaded successfully.
+2026-10-25 04:03:38,969 | INFO | Database initialized successfully.
+2026-10-25 04:03:38,972 | INFO | CSS loaded successfully.
+2026-10-25 04:03:44,053 | INFO | Database initialized successfully.
+2026-10-25 04:03:44,055 | INFO | CSS loaded successfully.
+2026-10-25 04:03:44,109 | INFO | Database initialized successfully.
+2026-10-25 04:03:44,112 | INFO | CSS loaded successfully.
+2026-10-25 04:03:46,035 | INFO | Loaded page: 1_Dashboard.py
+2026-10-25 04:04:15,567 | INFO | Database initialized successfully.
+2026-10-25 04:04:15,568 | INFO | CSS loaded successfully.
+2026-10-25 04:04:15,649 | INFO | Database initialized successfully.
+2026-10-25 04:04:15,650 | INFO | CSS loaded successfully.
+2026-10-25 04:04:15,939 | INFO | Loaded page: 2_ReadingAid.py
+2026-10-25 04:04:21,019 | INFO | Database initialized successfully.
+2026-10-25 04:04:21,021 | INFO | CSS loaded successfully.
+2026-10-25 04:04:21,098 | INFO | Database initialized successfully.
+2026-10-25 04:04:21,101 | INFO | CSS loaded successfully.
+2026-10-25 04:04:21,118 | INFO | Loaded page: 3_Awareness.py
+2026-10-25 04:04:24,637 | INFO | Database initialized successfully.
+2026-10-25 04:04:24,639 | INFO | CSS loaded successfully.
+2026-10-25 04:04:24,711 | INFO | Database initialized successfully.
+2026-10-25 04:04:24,714 | INFO | CSS loaded successfully.
+2026-10-25 04:04:24,907 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:04:35,809 | INFO | Database initialized successfully.
+2026-10-25 04:04:35,809 | INFO | CSS loaded successfully.
+2026-10-25 04:04:35,821 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:04:45,823 | INFO | Database initialized successfully.
+2026-10-25 04:04:45,824 | INFO | CSS loaded successfully.
+2026-10-25 04:04:45,841 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:04:55,828 | INFO | Database initialized successfully.
+2026-10-25 04:04:55,829 | INFO | CSS loaded successfully.
+2026-10-25 04:04:55,850 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:05:05,827 | INFO | Database initialized successfully.
+2026-10-25 04:05:05,830 | INFO | CSS loaded successfully.
+2026-10-25 04:05:05,848 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:05:15,815 | INFO | Database initialized successfully.
+2026-10-25 04:05:15,817 | INFO | CSS loaded successfully.
+2026-10-25 04:05:15,830 | INFO | Loaded page: 4_Tips.py
+2026-10-25 04:05:20,525 | INFO | Database initialized successfully.
+2026-10-25 04:05:20,526 | INFO | CSS loaded successfully.
+2026-10-25 04:05:20,607 | INFO | Database initialized successfully.
+2026-10-25 04:05:20,610 | INFO | CSS loaded successfully.
+2026-10-25 04:05:20,654 | INFO | Loaded page: 5_Profile.py
+2026-10-25 04:05:32,779 | INFO | Database initialized successfully.
+2026-10-25 04:05:32,782 | INFO | CSS loaded successfully.
+2026-10-25 04:05:32,800 | INFO | Loaded page: 5_Profile.py
+2026-10-25 04:05:33,823 | INFO | Database initialized successfully.
+2026-10-25 04:05:33,825 | INFO | CSS loaded successfully.
+2026-10-25 04:05:33,862 | INFO | Loaded page: 5_Profile.py
+2026-10-25 04:05:46,373 | INFO | Database initialized successfully.
+2026-10-25 04:05:46,375 | INFO | CSS loaded successfully.
+2026-10-25 04:05:46,445 | INFO | Database initialized successfully.
+2026-10-25 04:05:46,446 | INFO | CSS loaded successfully.
+2026-10-25 04:05:46,547 | INFO | Loaded page: 1_Dashboard.py
+2026-10-25 04:05:56,710 | INFO | Database initialized successfully.
+2026-10-25 04:05:56,713 | INFO | CSS loaded successfully.
+2026-10-25 04:05:56,809 | INFO | Database initialized successfully.
+2026-10-25 04:05:56,811 | INFO | CSS loaded successfully.
+2026-10-25 04:05:56,922 | INFO | Loaded page: 1_Dashboard.py
+2026-10-25 04:06:00,186 | INFO | Database initialized successfully.
+2026-10-25 04:06:00,191 | INFO | CSS loaded successfully.
+2026-10-25 04:06:00,282 | INFO | Database initialized successfully.
+2026-10-25 04:06:00,284 | INFO | CSS loaded successfully.
+2026-10-25 04:06:00,404 | INFO | Loaded page: 1_Dashboard.py
+2026-11-20 21:46:35,939 | INFO | Database initialized successfully.
+2026-11-20 21:46:36,133 | INFO | CSS loaded successfully.
+2026-11-20 21:46:41,989 | INFO | Database initialized successfully.
+2026-11-20 21:46:41,991 | INFO | CSS loaded successfully.
+2026-11-20 21:46:49,610 | INFO | Database initialized successfully.
+2026-11-20 21:46:49,612 | INFO | CSS loaded successfully.
+2026-11-20 21:46:53,871 | INFO | Database initialized successfully.
+2026-11-20 21:46:53,874 | INFO | CSS loaded successfully.
+2026-11-20 21:46:53,919 | INFO | Database initialized successfully.
+2026-11-20 21:46:53,921 | INFO | CSS loaded successfully.
+2026-11-20 21:47:00,069 | INFO | Loaded page: 1_Dashboard.py
+2026-11-20 21:47:01,155 | INFO | Database initialized successfully.
+2026-11-20 21:47:01,156 | INFO | CSS loaded successfully.
+2026-11-20 21:47:01,238 | INFO | Database initialized successfully.
+2026-11-20 21:47:01,241 | INFO | CSS loaded successfully.
+2026-11-20 21:47:01,353 | INFO | Loaded page: 1_Dashboard.py
+2026-11-20 21:47:09,410 | INFO | Database initialized successfully.
+2026-11-20 21:47:09,411 | INFO | CSS loaded successfully.
+2026-11-20 21:47:09,480 | INFO | Database initialized successfully.
+2026-11-20 21:47:09,481 | INFO | CSS loaded successfully.
+2026-11-20 21:47:09,492 | ERROR | Failed loading page: 2_ReadingAid.py
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 257, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-20 21:47:12,598 | INFO | Database initialized successfully.
+2026-11-20 21:47:12,600 | INFO | CSS loaded successfully.
+2026-11-20 21:47:12,663 | INFO | Database initialized successfully.
+2026-11-20 21:47:12,664 | INFO | CSS loaded successfully.
+2026-11-20 21:47:12,672 | ERROR | Failed loading page: 2_ReadingAid.py
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 257, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-20 21:47:13,386 | INFO | Database initialized successfully.
+2026-11-20 21:47:13,387 | INFO | CSS loaded successfully.
+2026-11-20 21:47:13,454 | INFO | Database initialized successfully.
+2026-11-20 21:47:13,455 | INFO | CSS loaded successfully.
+2026-11-20 21:47:13,461 | ERROR | Failed loading page: 2_ReadingAid.py
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 257, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-20 21:47:14,437 | INFO | Database initialized successfully.
+2026-11-20 21:47:14,438 | INFO | CSS loaded successfully.
+2026-11-20 21:47:14,501 | INFO | Database initialized successfully.
+2026-11-20 21:47:14,502 | INFO | CSS loaded successfully.
+2026-11-20 21:47:14,559 | INFO | Loaded page: 1_Dashboard.py
+2026-11-20 21:47:15,448 | INFO | Database initialized successfully.
+2026-11-20 21:47:15,450 | INFO | CSS loaded successfully.
+2026-11-20 21:47:15,527 | INFO | Database initialized successfully.
+2026-11-20 21:47:15,529 | INFO | CSS loaded successfully.
+2026-11-20 21:47:15,538 | ERROR | Failed loading page: 2_ReadingAid.py
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 257, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-20 21:47:16,458 | INFO | Database initialized successfully.
+2026-11-20 21:47:16,459 | INFO | CSS loaded successfully.
+2026-11-20 21:47:16,519 | INFO | Database initialized successfully.
+2026-11-20 21:47:16,520 | INFO | CSS loaded successfully.
+2026-11-20 21:47:16,532 | INFO | Loaded page: 3_Awareness.py
+2026-11-20 21:47:19,458 | INFO | Database initialized successfully.
+2026-11-20 21:47:19,459 | INFO | CSS loaded successfully.
+2026-11-20 21:47:19,522 | INFO | Database initialized successfully.
+2026-11-20 21:47:19,523 | INFO | CSS loaded successfully.
+2026-11-20 21:47:19,531 | ERROR | Failed loading page: 2_ReadingAid.py
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 257, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-20 21:49:42,482 | INFO | Database initialized successfully.
+2026-11-20 21:49:42,483 | INFO | CSS loaded successfully.
+2026-11-20 21:49:42,548 | INFO | Database initialized successfully.
+2026-11-20 21:49:42,549 | INFO | CSS loaded successfully.
+2026-11-20 21:49:42,554 | ERROR | Failed loading page: 2_ReadingAid.py
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 257, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-20 21:49:43,153 | INFO | Database initialized successfully.
+2026-11-20 21:49:43,154 | INFO | CSS loaded successfully.
+2026-11-20 21:49:43,221 | INFO | Database initialized successfully.
+2026-11-20 21:49:43,222 | INFO | CSS loaded successfully.
+2026-11-20 21:49:43,318 | INFO | Loaded page: 1_Dashboard.py
+2026-11-20 21:49:44,048 | INFO | Database initialized successfully.
+2026-11-20 21:49:44,050 | INFO | CSS loaded successfully.
+2026-11-20 21:49:44,127 | INFO | Database initialized successfully.
+2026-11-20 21:49:44,128 | INFO | CSS loaded successfully.
+2026-11-20 21:49:44,137 | ERROR | Failed loading page: 2_ReadingAid.py
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 257, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-20 21:49:45,183 | INFO | Database initialized successfully.
+2026-11-20 21:49:45,186 | INFO | CSS loaded successfully.
+2026-11-20 21:49:45,266 | INFO | Database initialized successfully.
+2026-11-20 21:49:45,268 | INFO | CSS loaded successfully.
+2026-11-20 21:49:45,285 | INFO | Loaded page: 4_Tips.py
+2026-11-20 21:49:46,503 | INFO | Database initialized successfully.
+2026-11-20 21:49:46,506 | INFO | CSS loaded successfully.
+2026-11-20 21:49:46,585 | INFO | Database initialized successfully.
+2026-11-20 21:49:46,587 | INFO | CSS loaded successfully.
+2026-11-20 21:49:46,621 | INFO | Loaded page: 5_Profile.py
+2026-11-20 22:00:12,620 | INFO | Database initialized successfully.
+2026-11-20 22:00:12,860 | INFO | CSS loaded successfully.
+2026-11-20 22:00:17,138 | ERROR | Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\KQ\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\KQ\Lib\asyncio\proactor_events.py", line 166, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-11-20 22:00:22,271 | INFO | Database initialized successfully.
+2026-11-20 22:00:22,273 | INFO | CSS loaded successfully.
+2026-11-20 22:00:28,561 | INFO | Database initialized successfully.
+2026-11-20 22:00:28,563 | INFO | CSS loaded successfully.
+2026-11-20 22:00:28,689 | INFO | Database initialized successfully.
+2026-11-20 22:00:28,690 | INFO | CSS loaded successfully.
+2026-11-20 22:00:28,738 | INFO | Database initialized successfully.
+2026-11-20 22:00:28,739 | INFO | CSS loaded successfully.
+2026-11-20 22:00:34,345 | INFO | Loaded page: 1_Dashboard.py
+2026-11-20 22:00:40,313 | INFO | Database initialized successfully.
+2026-11-20 22:00:40,315 | INFO | CSS loaded successfully.
+2026-11-20 22:00:40,385 | INFO | Database initialized successfully.
+2026-11-20 22:00:40,386 | INFO | CSS loaded successfully.
+2026-11-20 22:00:40,457 | INFO | Loaded page: 1_Dashboard.py
+2026-11-20 22:00:41,541 | INFO | Database initialized successfully.
+2026-11-20 22:00:41,541 | INFO | CSS loaded successfully.
+2026-11-20 22:00:41,597 | INFO | Database initialized successfully.
+2026-11-20 22:00:41,598 | INFO | CSS loaded successfully.
+2026-11-20 22:00:41,777 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-20 22:00:57,389 | INFO | Database initialized successfully.
+2026-11-20 22:00:57,390 | INFO | CSS loaded successfully.
+2026-11-20 22:00:57,400 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-20 22:00:59,607 | INFO | Database initialized successfully.
+2026-11-20 22:00:59,609 | INFO | CSS loaded successfully.
+2026-11-20 22:00:59,627 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-20 22:00:59,805 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-20 22:00:59,805 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-20 22:00:59,913 | INFO | Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+2026-11-20 22:00:59,919 | INFO | # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-11-20 22:01:00,003 | INFO | # Generating comtypes.gen.SpeechLib
+2026-11-20 22:01:01,020 | INFO | Database initialized successfully.
+2026-11-20 22:01:01,021 | INFO | CSS loaded successfully.
+2026-11-20 22:01:01,034 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-20 22:01:39,968 | INFO | Database initialized successfully.
+2026-11-20 22:01:39,969 | INFO | CSS loaded successfully.
+2026-11-20 22:01:39,982 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-20 22:01:40,106 | INFO | Database initialized successfully.
+2026-11-20 22:01:40,107 | INFO | CSS loaded successfully.
+2026-11-20 22:01:40,123 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-20 22:01:55,843 | INFO | Database initialized successfully.
+2026-11-20 22:01:55,844 | INFO | CSS loaded successfully.
+2026-11-20 22:01:55,853 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-21 13:48:28,339 | INFO | Database initialized successfully.
+2026-11-21 13:48:28,605 | INFO | CSS loaded successfully.
+2026-11-21 14:55:13,876 | INFO | Database initialized successfully.
+2026-11-21 14:55:13,889 | INFO | CSS loaded successfully.
+2026-11-21 14:55:16,886 | INFO | Database initialized successfully.
+2026-11-21 14:55:16,888 | INFO | CSS loaded successfully.
+2026-11-21 14:55:18,933 | INFO | Database initialized successfully.
+2026-11-21 14:55:18,935 | INFO | CSS loaded successfully.
+2026-11-21 14:55:18,994 | INFO | Database initialized successfully.
+2026-11-21 14:55:18,996 | INFO | CSS loaded successfully.
+2026-11-21 14:55:20,675 | INFO | Loaded page: 1_Dashboard.py
+2026-11-21 14:55:25,456 | INFO | Database initialized successfully.
+2026-11-21 14:55:25,458 | INFO | CSS loaded successfully.
+2026-11-21 14:55:25,547 | INFO | Database initialized successfully.
+2026-11-21 14:55:25,549 | INFO | CSS loaded successfully.
+2026-11-21 14:55:25,709 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-21 14:55:30,001 | INFO | Database initialized successfully.
+2026-11-21 14:55:30,003 | INFO | CSS loaded successfully.
+2026-11-21 14:55:30,090 | INFO | Database initialized successfully.
+2026-11-21 14:55:30,092 | INFO | CSS loaded successfully.
+2026-11-21 14:55:30,103 | INFO | Loaded page: 3_Awareness.py
+2026-11-21 14:55:40,584 | INFO | Database initialized successfully.
+2026-11-21 14:55:40,586 | INFO | CSS loaded successfully.
+2026-11-21 14:55:40,676 | INFO | Database initialized successfully.
+2026-11-21 14:55:40,678 | INFO | CSS loaded successfully.
+2026-11-21 14:55:40,918 | INFO | Loaded page: 4_Tips.py
+2026-11-21 14:55:52,380 | INFO | Database initialized successfully.
+2026-11-21 14:55:52,382 | INFO | CSS loaded successfully.
+2026-11-21 14:55:52,394 | INFO | Loaded page: 4_Tips.py
+2026-11-21 14:55:52,668 | INFO | Database initialized successfully.
+2026-11-21 14:55:52,670 | INFO | CSS loaded successfully.
+2026-11-21 14:55:52,766 | INFO | Database initialized successfully.
+2026-11-21 14:55:52,767 | INFO | CSS loaded successfully.
+2026-11-21 14:55:52,789 | INFO | Loaded page: 5_Profile.py
+2026-11-21 14:55:58,840 | INFO | Database initialized successfully.
+2026-11-21 14:55:58,843 | INFO | CSS loaded successfully.
+2026-11-21 14:55:58,930 | INFO | Database initialized successfully.
+2026-11-21 14:55:58,932 | INFO | CSS loaded successfully.
+2026-11-21 14:55:59,054 | INFO | Loaded page: 1_Dashboard.py
+2026-11-21 14:57:57,768 | INFO | Database initialized successfully.
+2026-11-21 14:57:57,770 | INFO | CSS loaded successfully.
+2026-11-21 14:57:57,855 | INFO | Database initialized successfully.
+2026-11-21 14:57:57,857 | INFO | CSS loaded successfully.
+2026-11-21 14:57:57,865 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-21 14:58:37,384 | INFO | Database initialized successfully.
+2026-11-21 14:58:37,385 | INFO | CSS loaded successfully.
+2026-11-21 14:58:37,394 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-21 14:58:37,500 | INFO | Database initialized successfully.
+2026-11-21 14:58:37,502 | INFO | CSS loaded successfully.
+2026-11-21 14:58:37,520 | INFO | Loaded page: 2_ReadingAid.py
+2026-11-21 14:58:37,677 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-21 14:58:37,678 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-22 23:46:59,290 | INFO | Database initialized.
+2026-11-22 23:47:09,098 | INFO | Database initialized.
+2026-11-22 23:47:14,489 | INFO | Database initialized.
+2026-11-22 23:47:16,959 | INFO | Database initialized.
+2026-11-22 23:47:17,013 | INFO | Database initialized.
+2026-11-22 23:47:37,934 | INFO | Database initialized.
+2026-11-22 23:47:38,017 | INFO | Database initialized.
+2026-11-22 23:47:54,043 | INFO | Database initialized.
+2026-11-22 23:47:54,181 | INFO | Database initialized.
+2026-11-22 23:47:54,342 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-22 23:47:54,342 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-22 23:48:01,547 | INFO | Database initialized.
+2026-11-22 23:48:01,597 | INFO | Database initialized.
+2026-11-22 23:48:08,562 | INFO | Database initialized.
+2026-11-22 23:48:08,615 | INFO | Database initialized.
+2026-11-22 23:48:14,855 | INFO | Database initialized.
+2026-11-22 23:48:15,659 | ERROR | Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\KQ\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\KQ\Lib\asyncio\proactor_events.py", line 166, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-11-24 01:48:10,156 | INFO | Database initialized.
+2026-11-24 01:48:44,914 | INFO | Database initialized.
+2026-11-24 01:48:51,227 | INFO | Database initialized.
+2026-11-24 01:48:54,066 | INFO | Database initialized.
+2026-11-24 01:48:54,119 | INFO | Database initialized.
+2026-11-24 01:49:04,345 | INFO | Database initialized.
+2026-11-24 01:49:04,406 | INFO | Database initialized.
+2026-11-24 01:49:06,692 | INFO | Database initialized.
+2026-11-24 01:49:06,755 | INFO | Database initialized.
+2026-11-24 01:50:05,344 | INFO | Database initialized.
+2026-11-24 01:50:05,410 | INFO | Database initialized.
+2026-11-24 01:50:12,138 | INFO | Database initialized.
+2026-11-24 01:50:17,139 | INFO | Database initialized.
+2026-11-24 01:50:22,139 | INFO | Database initialized.
+2026-11-24 01:50:27,415 | INFO | Database initialized.
+2026-11-24 01:50:32,129 | INFO | Database initialized.
+2026-11-24 01:50:33,172 | INFO | Database initialized.
+2026-11-24 01:50:33,246 | INFO | Database initialized.
+2026-11-24 01:57:05,696 | INFO | Database initialized.
+2026-11-24 23:42:24,183 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-24 23:42:26,671 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-24 23:53:59,748 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\3_Awareness.py", line 1, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-24 23:54:01,720 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\3_Awareness.py", line 1, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-24 23:54:03,431 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\4_Tips.py", line 2, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-24 23:54:05,075 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\4_Tips.py", line 2, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-24 23:54:05,652 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\3_Awareness.py", line 1, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-24 23:54:06,166 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\4_Tips.py", line 2, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-24 23:54:06,636 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-24 23:54:07,629 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-24 23:54:08,216 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\4_Tips.py", line 2, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-24 23:54:08,834 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\3_Awareness.py", line 1, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-24 23:54:09,756 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\3_Awareness.py", line 1, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-25 00:00:07,832 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\3_Awareness.py", line 1, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-25 00:00:10,493 | ERROR | name 'st' is not defined
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\4_Tips.py", line 2, in <module>
+    st.error(
+    ^^
+NameError: name 'st' is not defined. Did you mean: 'set'?
+2026-11-25 00:00:11,757 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 00:01:33,979 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 00:01:36,018 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 00:27:58,401 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 00:28:03,739 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 00:28:06,473 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 00:28:10,829 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 00:28:12,225 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 00:36:38,375 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 00:43:00,408 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 00:43:07,845 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 00:43:07,992 | ERROR | Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\KQ\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\KQ\Lib\asyncio\proactor_events.py", line 166, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-11-25 01:48:01,393 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 01:48:04,766 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 01:48:05,062 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 09:27:13,836 | ERROR | No module named 'gtts'
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-25 09:27:18,131 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 09:27:43,548 | ERROR | No module named 'gtts'
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-25 09:27:47,150 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 09:28:00,911 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 09:28:02,799 | ERROR | No module named 'gtts'
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\2_ReadingAid.py", line 5, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+2026-11-25 21:37:43,926 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:37:47,907 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:37:54,153 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:37:56,546 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 21:37:57,703 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:37:58,397 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:41:14,979 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:41:18,677 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:41:33,589 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-25 21:41:33,590 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-25 21:41:48,465 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:43:34,818 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 6, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:43:46,229 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 21:49:17,149 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 6, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:49:21,880 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 6, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 21:49:27,918 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 22:00:52,396 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 6, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 22:00:55,761 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 6, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 22:32:21,320 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 6, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 22:32:24,606 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 6, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 22:32:30,267 | ERROR | cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\5_Profile.py", line 7, in <module>
+    from db import load_profile, save_profile
+ImportError: cannot import name 'save_profile' from 'db' (C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\db.py). Did you mean: 'load_profile'?
+2026-11-25 22:36:15,823 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 212, in load_page
+    spec.loader.exec_module(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        module
+        ^^^^^^
+    )
+    ^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 6, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 22:49:50,823 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 116, in load_page
+    spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 22:50:17,634 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 116, in load_page
+    spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 22:56:22,483 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 116, in load_page
+    spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 22:57:13,033 | ERROR | invalid syntax (frame.py, line 1213)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 116, in load_page
+    spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 4, in <module>
+    import pandas as pd
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\__init__.py", line 58, in <module>
+    from pandas.core.api import (
+    ...<61 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\api.py", line 46, in <module>
+    from pandas.core.groupby import (
+    ...<2 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\__init__.py", line 1, in <module>
+    from pandas.core.groupby.generic import (
+    ...<3 lines>...
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\groupby\generic.py", line 64, in <module>
+    from pandas.core.frame import DataFrame
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\pandas\core\frame.py", line 1213
+    val = buf.getvalue().replace("<", r<, 1)
+                                        ^
+SyntaxError: invalid syntax
+2026-11-25 23:02:37,554 | ERROR | invalid syntax (utils.py, line 296)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 44, in dashboard_page
+    st.line_chart(weekly_pages)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\runtime\metrics_util.py", line 725, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\elements\vega_charts.py", line 1033, in line_chart
+    chart = generate_chart(
+        chart_type=ChartType.LINE,
+    ...<8 lines>...
+        height=height,
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\elements\lib\built_in_chart_utils.py", line 153, in generate_chart
+    import altair as alt
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\__init__.py", line 660, in <module>
+    from altair.vegalite import *
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\vegalite\__init__.py", line 2, in <module>
+    from .v6 import *
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\vegalite\v6\__init__.py", line 2, in <module>
+    from altair.expr.core import datum
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\expr\__init__.py", line 11, in <module>
+    from altair.expr.core import ConstExpression, FunctionExpression
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\expr\core.py", line 7, in <module>
+    from altair.utils import SchemaBase
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\utils\__init__.py", line 14, in <module>
+    from .html import spec_to_html
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\utils\html.py", line 6, in <module>
+    import jinja2
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\__init__.py", line 9, in <module>
+    from .environment import Environment as Environment
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\environment.py", line 17, in <module>
+    from . import nodes
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\nodes.py", line 13, in <module>
+    from .utils import _PassArg
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\utils.py", line 296
+    if middle.endswith((")", ">", ".", ",", "\n", >)):
+                                                  ^
+SyntaxError: invalid syntax
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 122, in load_page
+    page()
+    ~~~~^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 46, in dashboard_page
+    st.bar_chart(weekly_pages)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\runtime\metrics_util.py", line 725, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\elements\vega_charts.py", line 1687, in bar_chart
+    if type_util.is_altair_version_less_than("5.0.0") and stack is False:
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\type_util.py", line 473, in is_altair_version_less_than
+    import altair as alt
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\__init__.py", line 660, in <module>
+    from altair.vegalite import *
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\vegalite\__init__.py", line 2, in <module>
+    from .v6 import *
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\vegalite\v6\__init__.py", line 2, in <module>
+    from altair.expr.core import datum
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\expr\__init__.py", line 11, in <module>
+    from altair.expr.core import ConstExpression, FunctionExpression
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\expr\core.py", line 7, in <module>
+    from altair.utils import SchemaBase
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\utils\__init__.py", line 14, in <module>
+    from .html import spec_to_html
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\utils\html.py", line 6, in <module>
+    import jinja2
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\__init__.py", line 9, in <module>
+    from .environment import Environment as Environment
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\environment.py", line 17, in <module>
+    from . import nodes
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\nodes.py", line 13, in <module>
+    from .utils import _PassArg
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\utils.py", line 296
+    if middle.endswith((")", ">", ".", ",", "\n", >)):
+                                                  ^
+SyntaxError: invalid syntax
+2026-11-25 23:03:08,970 | ERROR | invalid syntax (utils.py, line 296)
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 44, in dashboard_page
+    st.line_chart(weekly_pages)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\runtime\metrics_util.py", line 725, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\elements\vega_charts.py", line 1033, in line_chart
+    chart = generate_chart(
+        chart_type=ChartType.LINE,
+    ...<8 lines>...
+        height=height,
+    )
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\elements\lib\built_in_chart_utils.py", line 153, in generate_chart
+    import altair as alt
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\__init__.py", line 660, in <module>
+    from altair.vegalite import *
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\vegalite\__init__.py", line 2, in <module>
+    from .v6 import *
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\vegalite\v6\__init__.py", line 2, in <module>
+    from altair.expr.core import datum
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\expr\__init__.py", line 11, in <module>
+    from altair.expr.core import ConstExpression, FunctionExpression
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\expr\core.py", line 7, in <module>
+    from altair.utils import SchemaBase
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\utils\__init__.py", line 14, in <module>
+    from .html import spec_to_html
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\utils\html.py", line 6, in <module>
+    import jinja2
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\__init__.py", line 9, in <module>
+    from .environment import Environment as Environment
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\environment.py", line 17, in <module>
+    from . import nodes
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\nodes.py", line 13, in <module>
+    from .utils import _PassArg
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\utils.py", line 296
+    if middle.endswith((")", ">", ".", ",", "\n", >)):
+                                                  ^
+SyntaxError: invalid syntax
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 122, in load_page
+    page()
+    ~~~~^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app_pages\1_Dashboard.py", line 46, in dashboard_page
+    st.bar_chart(weekly_pages)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\runtime\metrics_util.py", line 725, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\elements\vega_charts.py", line 1687, in bar_chart
+    if type_util.is_altair_version_less_than("5.0.0") and stack is False:
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\type_util.py", line 473, in is_altair_version_less_than
+    import altair as alt
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\__init__.py", line 660, in <module>
+    from altair.vegalite import *
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\vegalite\__init__.py", line 2, in <module>
+    from .v6 import *
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\vegalite\v6\__init__.py", line 2, in <module>
+    from altair.expr.core import datum
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\expr\__init__.py", line 11, in <module>
+    from altair.expr.core import ConstExpression, FunctionExpression
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\expr\core.py", line 7, in <module>
+    from altair.utils import SchemaBase
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\utils\__init__.py", line 14, in <module>
+    from .html import spec_to_html
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\altair\utils\html.py", line 6, in <module>
+    import jinja2
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\__init__.py", line 9, in <module>
+    from .environment import Environment as Environment
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\environment.py", line 17, in <module>
+    from . import nodes
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\nodes.py", line 13, in <module>
+    from .utils import _PassArg
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\jinja2\utils.py", line 296
+    if middle.endswith((")", ">", ".", ",", "\n", >)):
+                                                  ^
+SyntaxError: invalid syntax
+2026-11-25 23:11:03,101 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-25 23:11:03,102 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-25 23:17:28,983 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-25 23:17:28,984 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-25 23:20:54,962 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-25 23:20:54,962 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-25 23:24:36,218 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-25 23:24:36,219 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-25 23:32:20,349 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-25 23:32:20,351 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-25 23:35:31,208 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-25 23:35:31,209 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
+2026-11-26 00:05:47,814 | ERROR | `st.session_state['reg_password_input']` cannot be modified after the widget with that key is instantiated. Assign `st.session_state['reg_password_input']` before creating the widget, or update it from an `on_change` or `on_click` callback, which runs before the widget is instantiated. If this is a read-only session state key (buttons, file and media inputs, `st.data_editor`, forms, chart or `ButtonColumn` selections), store the value under a different session state key.
+Traceback (most recent call last):
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\app.py", line 135, in <module>
+    register_page()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\register.py", line 236, in register_page
+    st.session_state["reg_password_input"] = ""
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\runtime\metrics_util.py", line 725, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\runtime\state\session_state_proxy.py", line 162, in __setitem__
+    get_session_state()[key] = value
+    ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\runtime\state\safe_session_state.py", line 128, in __setitem__
+    self._state[key] = value
+    ~~~~~~~~~~~^^^^^
+  File "C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\streamlit\runtime\state\session_state.py", line 860, in __setitem__
+    raise StreamlitWidgetAlreadyInstantiatedError(user_key)
+streamlit.errors.StreamlitWidgetAlreadyInstantiatedError: `st.session_state['reg_password_input']` cannot be modified after the widget with that key is instantiated. Assign `st.session_state['reg_password_input']` before creating the widget, or update it from an `on_change` or `on_click` callback, which runs before the widget is instantiated. If this is a read-only session state key (buttons, file and media inputs, `st.data_editor`, forms, chart or `ButtonColumn` selections), store the value under a different session state key.
+2026-11-26 00:07:17,163 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\aasth\\OneDrive\\Desktop\\AssistiveReadingAid\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-11-26 00:07:17,164 | INFO | Using writeable comtypes cache directory: 'C:\Users\aasth\OneDrive\Desktop\AssistiveReadingAid\.venv\Lib\site-packages\comtypes\gen'
